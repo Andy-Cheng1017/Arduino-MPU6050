@@ -1,4 +1,4 @@
-Arduino-MPU6050
+Arduino-MPU605
 ===============
 
 MPU6050 Triple Axis Gyroscope & Accelerometer Arduino Library.
